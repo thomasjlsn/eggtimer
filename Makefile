@@ -1,4 +1,4 @@
-BIN=eggtimer
+BIN=et
 PREFIX=/usr/local
 BINDIR=$(PREFIX)/bin
 SHAREDIR=$(PREFIX)/share/$(BIN)
